@@ -1,2 +1,2 @@
-# rice-Sword
+# hyprland - Sword
 my arch linux hyprland rice dotfiles :)
